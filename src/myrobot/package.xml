@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>myrobot</name>
+  <version>1.0.0</version>
+  <description>
+    URDF Description package for Assem2.
+    This package contains configuration data, 3D models, and launch files
+    for the Assem2 robot.
+  </description>
+
+  <maintainer email="TODO@email.com">TODO</maintainer>
+  <license>BSD</license>
+
+  <!-- Build tool -->
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <!-- Runtime dependencies -->
+  <depend>robot_state_publisher</depend>
+  <depend>joint_state_publisher</depend>
+  <depend>rviz2</depend>
+  <depend>gazebo_ros</depend>
+  <depend>xacro</depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

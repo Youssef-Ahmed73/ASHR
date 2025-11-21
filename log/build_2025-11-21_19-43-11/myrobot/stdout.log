@@ -1,0 +1,53 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/youssef/strawberry_ws/build/myrobot
+-- Install configuration: ""
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link1.STL
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link3.STL:Zone.Identifier
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link3.STL
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link2.STL:Zone.Identifier
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link4.STL:Zone.Identifier
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/base_link.STL
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link5.STL
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link4.STL
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link6.STL:Zone.Identifier
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link2.STL
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/base_link.STL:Zone.Identifier
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link5.STL:Zone.Identifier
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link1.STL:Zone.Identifier
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link6.STL
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/urdf
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/urdf/Final_ISA_URDF.csv
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/urdf/Final_ISA_URDF.urdf
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/urdf/Final_ISA_URDF.urdf:Zone.Identifier
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/urdf/Final_ISA_URDF.csv:Zone.Identifier
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/ament_index/resource_index/package_run_dependencies/myrobot
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/ament_index/resource_index/parent_prefix_path/myrobot
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/environment/ament_prefix_path.sh
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/environment/ament_prefix_path.dsv
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/environment/path.sh
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/environment/path.dsv
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/local_setup.bash
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/local_setup.sh
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/local_setup.zsh
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/local_setup.dsv
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/package.dsv
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/ament_index/resource_index/packages/myrobot
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/cmake/myrobotConfig.cmake
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/cmake/myrobotConfig-version.cmake
+-- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/package.xml

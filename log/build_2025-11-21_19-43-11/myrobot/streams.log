@@ -1,0 +1,59 @@
+[0.036s] Invoking command in '/home/youssef/strawberry_ws/build/myrobot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/youssef/ws_moveit2/install/moveit_configs_utils:/home/youssef/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/youssef/strawberry_ws/src/myrobot -DCMAKE_INSTALL_PREFIX=/home/youssef/strawberry_ws/install/myrobot
+[0.607s] -- The C compiler identification is GNU 11.4.0
+[2.185s] -- The CXX compiler identification is GNU 11.4.0
+[3.300s] -- Detecting C compiler ABI info
+[3.754s] -- Detecting C compiler ABI info - done
+[3.767s] -- Check for working C compiler: /usr/bin/cc - skipped
+[3.767s] -- Detecting C compile features
+[3.768s] -- Detecting C compile features - done
+[3.774s] -- Detecting CXX compiler ABI info
+[4.171s] -- Detecting CXX compiler ABI info - done
+[4.183s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[4.183s] -- Detecting CXX compile features
+[4.184s] -- Detecting CXX compile features - done
+[4.238s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[4.530s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[4.911s] -- Configuring done
+[4.917s] -- Generating done
+[4.920s] -- Build files have been written to: /home/youssef/strawberry_ws/build/myrobot
+[4.928s] Invoked command in '/home/youssef/strawberry_ws/build/myrobot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/youssef/ws_moveit2/install/moveit_configs_utils:/home/youssef/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/youssef/strawberry_ws/src/myrobot -DCMAKE_INSTALL_PREFIX=/home/youssef/strawberry_ws/install/myrobot
+[4.932s] Invoking command in '/home/youssef/strawberry_ws/build/myrobot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/youssef/ws_moveit2/install/moveit_configs_utils:/home/youssef/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/youssef/strawberry_ws/build/myrobot -- -j6 -l6
+[5.026s] Invoked command in '/home/youssef/strawberry_ws/build/myrobot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/youssef/ws_moveit2/install/moveit_configs_utils:/home/youssef/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/youssef/strawberry_ws/build/myrobot -- -j6 -l6
+[5.048s] Invoking command in '/home/youssef/strawberry_ws/build/myrobot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/youssef/ws_moveit2/install/moveit_configs_utils:/home/youssef/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/youssef/strawberry_ws/build/myrobot
+[5.067s] -- Install configuration: ""
+[5.067s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes
+[5.068s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link1.STL
+[5.072s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link3.STL:Zone.Identifier
+[5.072s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link3.STL
+[5.074s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link2.STL:Zone.Identifier
+[5.075s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link4.STL:Zone.Identifier
+[5.075s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/base_link.STL
+[5.076s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link5.STL
+[5.076s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link4.STL
+[5.076s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link6.STL:Zone.Identifier
+[5.076s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link2.STL
+[5.080s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/base_link.STL:Zone.Identifier
+[5.081s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link5.STL:Zone.Identifier
+[5.081s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link1.STL:Zone.Identifier
+[5.081s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link6.STL
+[5.081s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/urdf
+[5.082s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/urdf/Final_ISA_URDF.csv
+[5.082s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/urdf/Final_ISA_URDF.urdf
+[5.082s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/urdf/Final_ISA_URDF.urdf:Zone.Identifier
+[5.082s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/urdf/Final_ISA_URDF.csv:Zone.Identifier
+[5.084s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/ament_index/resource_index/package_run_dependencies/myrobot
+[5.084s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/ament_index/resource_index/parent_prefix_path/myrobot
+[5.085s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/environment/ament_prefix_path.sh
+[5.085s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/environment/ament_prefix_path.dsv
+[5.085s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/environment/path.sh
+[5.085s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/environment/path.dsv
+[5.085s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/local_setup.bash
+[5.086s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/local_setup.sh
+[5.086s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/local_setup.zsh
+[5.086s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/local_setup.dsv
+[5.086s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/package.dsv
+[5.087s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/ament_index/resource_index/packages/myrobot
+[5.087s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/cmake/myrobotConfig.cmake
+[5.088s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/cmake/myrobotConfig-version.cmake
+[5.088s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/package.xml
+[5.092s] Invoked command in '/home/youssef/strawberry_ws/build/myrobot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/youssef/ws_moveit2/install/moveit_configs_utils:/home/youssef/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/youssef/strawberry_ws/build/myrobot

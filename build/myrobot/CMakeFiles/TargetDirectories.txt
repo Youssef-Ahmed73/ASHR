@@ -1,0 +1,9 @@
+/home/youssef/strawberry_ws/build/myrobot/CMakeFiles/uninstall.dir
+/home/youssef/strawberry_ws/build/myrobot/CMakeFiles/myrobot_uninstall.dir
+/home/youssef/strawberry_ws/build/myrobot/CMakeFiles/test.dir
+/home/youssef/strawberry_ws/build/myrobot/CMakeFiles/edit_cache.dir
+/home/youssef/strawberry_ws/build/myrobot/CMakeFiles/rebuild_cache.dir
+/home/youssef/strawberry_ws/build/myrobot/CMakeFiles/list_install_components.dir
+/home/youssef/strawberry_ws/build/myrobot/CMakeFiles/install.dir
+/home/youssef/strawberry_ws/build/myrobot/CMakeFiles/install/local.dir
+/home/youssef/strawberry_ws/build/myrobot/CMakeFiles/install/strip.dir
