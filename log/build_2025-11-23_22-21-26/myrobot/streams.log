@@ -1,0 +1,40 @@
+[0.068s] Invoking command in '/home/youssef/strawberry_ws/build/myrobot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/youssef/strawberry_ws/install/motion_planning:/home/youssef/ws_moveit2/install/moveit_configs_utils:/home/youssef/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/youssef/strawberry_ws/build/myrobot -- -j6 -l6
+[0.692s] Invoked command in '/home/youssef/strawberry_ws/build/myrobot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/youssef/strawberry_ws/install/motion_planning:/home/youssef/ws_moveit2/install/moveit_configs_utils:/home/youssef/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/youssef/strawberry_ws/build/myrobot -- -j6 -l6
+[0.723s] Invoking command in '/home/youssef/strawberry_ws/build/myrobot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/youssef/strawberry_ws/install/motion_planning:/home/youssef/ws_moveit2/install/moveit_configs_utils:/home/youssef/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/youssef/strawberry_ws/build/myrobot
+[0.752s] -- Install configuration: ""
+[0.752s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes
+[0.753s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link1.STL
+[0.754s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link3.STL:Zone.Identifier
+[0.754s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link3.STL
+[0.754s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link2.STL:Zone.Identifier
+[0.754s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link4.STL:Zone.Identifier
+[0.754s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/base_link.STL
+[0.754s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link5.STL
+[0.755s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link4.STL
+[0.755s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link6.STL:Zone.Identifier
+[0.755s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link2.STL
+[0.756s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/base_link.STL:Zone.Identifier
+[0.756s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link5.STL:Zone.Identifier
+[0.756s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link1.STL:Zone.Identifier
+[0.756s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/meshes/Link6.STL
+[0.757s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/urdf
+[0.757s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/urdf/Final_ISA_URDF.csv
+[0.757s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/urdf/Final_ISA_URDF.urdf
+[0.757s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/urdf/Final_ISA_URDF.urdf:Zone.Identifier
+[0.758s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/urdf/Final_ISA_URDF.csv:Zone.Identifier
+[0.758s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/ament_index/resource_index/package_run_dependencies/myrobot
+[0.758s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/ament_index/resource_index/parent_prefix_path/myrobot
+[0.758s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/environment/ament_prefix_path.sh
+[0.758s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/environment/ament_prefix_path.dsv
+[0.758s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/environment/path.sh
+[0.759s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/environment/path.dsv
+[0.759s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/local_setup.bash
+[0.759s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/local_setup.sh
+[0.760s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/local_setup.zsh
+[0.760s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/local_setup.dsv
+[0.760s] -- Installing: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/package.dsv
+[0.760s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/ament_index/resource_index/packages/myrobot
+[0.761s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/cmake/myrobotConfig.cmake
+[0.763s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/cmake/myrobotConfig-version.cmake
+[0.763s] -- Up-to-date: /home/youssef/strawberry_ws/install/myrobot/share/myrobot/package.xml
+[0.766s] Invoked command in '/home/youssef/strawberry_ws/build/myrobot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/youssef/strawberry_ws/install/motion_planning:/home/youssef/ws_moveit2/install/moveit_configs_utils:/home/youssef/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/youssef/strawberry_ws/build/myrobot

@@ -1,0 +1,27 @@
+[1.287s] Invoking command in '/home/youssef/strawberry_ws/src/motion_planning': PYTHONPATH=/home/youssef/strawberry_ws/build/motion_planning/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/youssef/strawberry_ws/install/motion_planning/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/motion_planning build --build-base /home/youssef/strawberry_ws/build/motion_planning/build install --record /home/youssef/strawberry_ws/build/motion_planning/install.log --single-version-externally-managed install_data
+[1.696s] running egg_info
+[1.697s] writing ../../build/motion_planning/motion_planning.egg-info/PKG-INFO
+[1.697s] writing dependency_links to ../../build/motion_planning/motion_planning.egg-info/dependency_links.txt
+[1.698s] writing entry points to ../../build/motion_planning/motion_planning.egg-info/entry_points.txt
+[1.698s] writing requirements to ../../build/motion_planning/motion_planning.egg-info/requires.txt
+[1.698s] writing top-level names to ../../build/motion_planning/motion_planning.egg-info/top_level.txt
+[1.702s] reading manifest file '../../build/motion_planning/motion_planning.egg-info/SOURCES.txt'
+[1.703s] writing manifest file '../../build/motion_planning/motion_planning.egg-info/SOURCES.txt'
+[1.704s] running build
+[1.704s] running build_py
+[1.704s] copying motion_planning/motion_planner.py -> /home/youssef/strawberry_ws/build/motion_planning/build/lib/motion_planning
+[1.705s] copying motion_planning/util.py -> /home/youssef/strawberry_ws/build/motion_planning/build/lib/motion_planning
+[1.705s] running install
+[1.705s] running install_lib
+[1.707s] copying /home/youssef/strawberry_ws/build/motion_planning/build/lib/motion_planning/motion_planner.py -> /home/youssef/strawberry_ws/install/motion_planning/lib/python3.10/site-packages/motion_planning
+[1.707s] copying /home/youssef/strawberry_ws/build/motion_planning/build/lib/motion_planning/util.py -> /home/youssef/strawberry_ws/install/motion_planning/lib/python3.10/site-packages/motion_planning
+[1.708s] byte-compiling /home/youssef/strawberry_ws/install/motion_planning/lib/python3.10/site-packages/motion_planning/motion_planner.py to motion_planner.cpython-310.pyc
+[1.710s] byte-compiling /home/youssef/strawberry_ws/install/motion_planning/lib/python3.10/site-packages/motion_planning/util.py to util.cpython-310.pyc
+[1.711s] running install_data
+[1.712s] running install_egg_info
+[1.718s] removing '/home/youssef/strawberry_ws/install/motion_planning/lib/python3.10/site-packages/motion_planning-0.0.0-py3.10.egg-info' (and everything under it)
+[1.718s] Copying ../../build/motion_planning/motion_planning.egg-info to /home/youssef/strawberry_ws/install/motion_planning/lib/python3.10/site-packages/motion_planning-0.0.0-py3.10.egg-info
+[1.721s] running install_scripts
+[1.760s] Installing motion_planner script to /home/youssef/strawberry_ws/install/motion_planning/lib/motion_planning
+[1.761s] writing list of installed files to '/home/youssef/strawberry_ws/build/motion_planning/install.log'
+[1.801s] Invoked command in '/home/youssef/strawberry_ws/src/motion_planning' returned '0': PYTHONPATH=/home/youssef/strawberry_ws/build/motion_planning/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/youssef/strawberry_ws/install/motion_planning/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/motion_planning build --build-base /home/youssef/strawberry_ws/build/motion_planning/build install --record /home/youssef/strawberry_ws/build/motion_planning/install.log --single-version-externally-managed install_data
